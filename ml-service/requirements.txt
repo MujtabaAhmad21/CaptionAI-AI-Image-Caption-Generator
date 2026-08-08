@@ -1,0 +1,9 @@
+fastapi[all]
+tensorflow
+pillow
+numpy
+python-multipart
+tqdm
+torch
+torchvision
+transformers
